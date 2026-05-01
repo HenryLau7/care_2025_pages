@@ -7,7 +7,9 @@ permalink: /paper_submission/
 This page is under construction.
 
 <!-- 
-The CARE 2026 will take place as a satellite event of MICCAI 2026 on **September 8** in Abu Dhabi, United Arab Emirates. 
+Note: An open-access version of all accepted papers from the MICCAI 2026 Satellite Event CARE 2026 will be made available on the MICCAI Society website no earlier than one week before the first day of the conference. Authors intending to file patents are responsible for ensuring that all necessary filings are completed prior to this public release.
+
+The CARE 2026 will take place as a satellite event of MICCAI 2026 on **September 27** in Abu Dhabi, United Arab Emirates. 
 
 ## Call for Papers
 

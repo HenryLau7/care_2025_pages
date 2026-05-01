@@ -4,6 +4,9 @@ title: Home
 permalink: /
 ---
 
+### **The validation phase started on May 01, 2026! We have sent the notification to the registered emails. You can login to our [**Evaluation Platform**](https://www.zmic.org.cn/care_2026/valid_submission/) to download the validation set and upload the prediction results.**
+### **If you have any questions, please contact [care26challenge@163.com](mailto:care26challenge@163.com) or [care2026challenge@outlook.com](mailto:care2026challenge@outlook.com).**
+
 ## Motivation 
 
 Medical image analysis empowered by AI has significantly reshaped medicine. However, real-world medical image analysis poses significant challenges for medical AI, including domain shifts due to diverse imaging protocols and medical centers, variability in pathological regions of interest (ROIs) such as lesions and scars, and limited generalization capabilities of existing deep learning models. This challenge aims to encourage the development of novel and effective methods that facilitate the translation of medical AI into real-world clinical practice.
@@ -80,7 +83,7 @@ The schedule for this track is as follows. All deadlines (DDLs) are on 23:59 in 
     </tr>
     <tr>
     <td class="text-left"><strong>Workshop (Half-Day)</strong></td>
-    <th scope="row" style="width: 60%" class="text-right"><strong>TBD</strong></th>
+    <th scope="row" style="width: 60%" class="text-right"><strong>September 27, 2026</strong></th>
     </tr>
 </table>
 
