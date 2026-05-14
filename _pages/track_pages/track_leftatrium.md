@@ -140,7 +140,7 @@ The performance of LA cavity segmentation, LA scar quantification and cardiac st
 - **Hausdorff Distance (HD)**
 
 ## Rules
-1. External data sets and pre-trained models are NOT allowed in this track.
+1. External data sets and pre-trained models are allowed in this track.
 2. Only automatic methods are permitted.
 3. Participants are encouraged to attempt all tasks, but they also can choose to focus on one of them. 
 4. We will only award prizes for LA scar quantification (MRI) and LA multi-structure segmentation (CT).

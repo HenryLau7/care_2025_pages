@@ -3,9 +3,10 @@ layout: home
 title: Home
 permalink: /
 ---
-
-### **The validation phase started on May 01, 2026! We have sent the notification to the registered emails. You can login to our [**Evaluation Platform**](https://www.zmic.org.cn/care_2026/valid_submission/) to download the validation set and upload the prediction results.**
-### **If you have any questions, please contact [care26challenge@163.com](mailto:care26challenge@163.com) or [care2026challenge@outlook.com](mailto:care2026challenge@outlook.com).**
+<div style="border-left: 5px solid #f97316; background-color: #fff7ed; padding: 1rem; margin: 1rem 0; border-radius: 0.5rem; color: #7c2d12;">
+<p>The validation phase started on May 01, 2026! We have sent the notification to the registered emails. You can login to our <a href="https://www.zmic.org.cn/care_2026/valid_submission/" target="_blank" rel="noopener noreferrer"><strong>Evaluation Platform</strong></a> to download the validation set and upload the prediction results.</p>
+<p>If you have any questions, please contact <a href="mailto:care26challenge@163.com">care26challenge@163.com</a> or <a href="mailto:care2026challenge@outlook.com">care2026challenge@outlook.com</a>.</p>
+</div>
 
 ## Motivation 
 
