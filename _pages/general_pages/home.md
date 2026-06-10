@@ -4,7 +4,9 @@ title: Home
 permalink: /
 ---
 <div style="border-left: 5px solid #f97316; background-color: #fff7ed; padding: 1rem; margin: 1rem 0; border-radius: 0.5rem; color: #7c2d12;">
-<p>The validation phase started on May 01, 2026! We have sent the notification to the registered emails. You can login to our <a href="https://www.zmic.org.cn/care_2026/valid_submission/" target="_blank" rel="noopener noreferrer"><strong>Evaluation Platform</strong></a> to download the validation set and upload the prediction results.</p>
+<p>The test phase started on June 10, 2026! We have sent the notification to the registered emails. You can refer to our <a href="https://www.zmic.org.cn/care_2026/test_submission/" target="_blank" rel="noopener noreferrer"><strong>Test Submission Page</strong></a> and <a href="https://www.zmic.org.cn/care_2026/paper_submission/" target="_blank" rel="noopener noreferrer"><strong>Paper Submission Page</strong></a> for more details.</p>
+<p><strong>Note</strong>: The submission of test results and the paper are separate. That is, participants can submit only the Docker container for testing, or only the paper, or both.</p>
+<p><strong>Note</strong>: The validation platform remains active during the test phase; you may continue submitting validation predictions as per previous instructions, and the leaderboard will update accordingly.</p>
 <p>If you have any questions, please contact <a href="mailto:care26challenge@163.com">care26challenge@163.com</a> or <a href="mailto:care2026challenge@outlook.com">care2026challenge@outlook.com</a>.</p>
 </div>
 

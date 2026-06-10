@@ -12,7 +12,6 @@ Participants can directly upload your predictions (in nifty format) via the eval
 - [**CARE-Liver** evaluation platform](https://zmic.org.cn/care_2026/eval/login?track=liver)
 - [**CARE-Myocardium** evaluation platform](https://zmic.org.cn/care_2026/eval/login?track=myocardium)
 - [**CARE-Whole Heart** evaluation platform](https://zmic.org.cn/care_2026/eval/login?track=wholeheart)
-<<<<<<< HEAD
 
 
 Please organize your files as follows:
@@ -70,5 +69,3 @@ CARE-Wholeheart-TeamName.zip
 │    │    ├──CaseMRVal***_pred.nii.gz
 │    │    ***
 ```
-=======
->>>>>>> refs/remotes/origin/main
