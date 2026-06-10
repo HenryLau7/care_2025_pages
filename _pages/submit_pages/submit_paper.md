@@ -4,12 +4,16 @@ title: Paper Submission
 permalink: /paper_submission/
 ---
 
-This page is under construction.
-
 <!-- 
-Note: An open-access version of all accepted papers from the MICCAI 2026 Satellite Event CARE 2026 will be made available on the MICCAI Society website no earlier than one week before the first day of the conference. Authors intending to file patents are responsible for ensuring that all necessary filings are completed prior to this public release.
+Note: An open-access version of all accepted papers from the MICCAI 2026 Satellite Event CARE 2026 will be made available on the MICCAI Society website no earlier than one week before the first day of the conference. Authors intending to file patents are responsible for ensuring that all necessary filings are completed prior to this public release.-->
 
-The CARE 2026 will take place as a satellite event of MICCAI 2026 on **September 27** in Abu Dhabi, United Arab Emirates. 
+The CARE 2026 will take place as a satellite event of MICCAI 2026 on **September 27** in Strasbourg, France. 
+
+This year, [OpenReview](https://openreview.net/group?id=MICCAI.org/2026/Workshop/CARE) is used for the submission, review, and acceptance of participants’ articles.
+
+<div style="border-left: 5px solid #f97316; background-color: #fff7ed; padding: 1rem; margin: 1rem 0; border-radius: 0.5rem; color: #7c2d12;">
+<strong>Note</strong>: An open-access version of all accepted papers from the MICCAI 2026 Satellite Event CARE 2026 will be made available on the MICCAI Society website no earlier than one week before the first day of the conference. <strong>Authors intending to file patents are responsible for ensuring that all necessary filings are completed prior to this public release</strong>.
+</div>
 
 ## Call for Papers
 
@@ -46,16 +50,10 @@ All deadlines are on 23:59 in Pacific Standard Time.
 ## Submission Site
 
 Please submit your abstract and paper via the following submission portal:
-[https://cmt3.research.microsoft.com/CARE2025](https://cmt3.research.microsoft.com/CARE2025)
+[https://openreview.net/group?id=MICCAI.org/2026/Workshop/CARE](https://openreview.net/group?id=MICCAI.org/2026/Workshop/CARE)
 
-## CMT Submission Instructions 
+## OpenReview Submission Instructions 
 
-The authors need to have a **CMT account** before submitting papers.
+The authors need to have a **OpenReview account** before submitting papers.
 
-- The link to create the account: [https://cmt3.research.microsoft.com/docs/help/general/account-creation.html](https://cmt3.research.microsoft.com/docs/help/general/account-creation.html)
-- The link of CMT submission instructions: [https://cmt3.research.microsoft.com/docs/help/author/author-submission-form.html](https://cmt3.research.microsoft.com/docs/help/author/author-submission-form.html)
-
-## CMT Acknowledgment
-
-The [Microsoft CMT service](https://cmt3.research.microsoft.com/) was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
--->
+- The instructions to create the OpenReview account: [https://docs.openreview.net/getting-started/creating-an-openreview-profile/signing-up-for-openreview](https://docs.openreview.net/getting-started/creating-an-openreview-profile/signing-up-for-openreview)
