@@ -37,6 +37,8 @@ Liver fibrosis, arising from chronic viral or metabolic liver conditions, presen
 
 Participants will develop robust AI solutions using multi-center, multi-phase MRI data, addressing real-world variability in imaging protocols and scanner systems.  
 
+- **Recommended reading: Participants are encouraged to refer to our recent LiFS benchmark paper, ["How Far Has AI Come in Liver Fibrosis Staging? A Large-Scale Real-World Dataset and Benchmark"](https://arxiv.org/abs/2605.25595). This benchmark systematically evaluated MRI-based AI methods for liver fibrosis staging, including participating methods from CARE2025, under realistic multi-center settings. It also discusses challenges that are directly relevant to this track, including cross-center generalization, domain shift, contrast-enhanced imaging, label imbalance, and clinically meaningful evaluation endpoints.**
+
 ## Tasks
 ### **Task 1: Liver Fibrosis Staging (LiFS)**  
 Develop models to stage fibrosis into four stages (S1-S4), leveraging **cross-phase complementary information** from dynamic MRI sequences. Participants should submit one four-class probability vector (S1-S4) per case. The organisers will derive two clinically critical binary evaluations from this single output, so separate models for the two clinical tasks are not required:  
@@ -210,7 +212,7 @@ The evaluation metrics for each task are summarized in the table below. The lead
     </tr>
     <tr>
       <td rowspan="2"><strong>LiSeg</strong></td>
-      <td>Non-Contrast (T2WI/DWI)</td>
+      <td>Non-Contrast (T1W1/T2WI/DWI)</td>
       <td>Dice Similarity Score (Dice), Hausdorff Distance (HD in mm)</td>
     </tr>
     <tr>
@@ -227,6 +229,16 @@ The evaluation metrics for each task are summarized in the table below. The lead
 ## Citations
 **Please cite these papers when you use the data for publications:**
 ```bib
+
+@misc{liu2026lifs,
+      title={How Far Has AI Come in Liver Fibrosis Staging? A Large-Scale Real-World Dataset and Benchmark}, 
+      author={Yuanye Liu and Nannan Shi and Zhejia Zhang and Hanxiao Zhang and Boya Wang and Derong Yu and Nao Wang and Yuxin Jin and Yang Zhou and Kunhao Yuan and Siqi Wang and Lida Yang and Xu Qiao and Wentao Liu and Xuelei He and Xin Hong and Guoyan Zheng and Xin Chen and Guang-Zhong Yang and Le Zhang and Lei Li and Yuxin Shi and Xiahai Zhuang},
+      year={2026},
+      eprint={2605.25595},
+      archivePrefix={arXiv},
+      url={https://arxiv.org/abs/2605.25595}, 
+}
+
 @article{liu2025merit,
   title = {MERIT: Multi-view evidential learning for reliable and interpretable liver fibrosis staging},
   author={Liu, Yuanye and Gao, Zheyao and Shi, Nannan and Wu, Fuping and Shi, Yuxin and Chen, Qingchao and Zhuang, Xiahai},
